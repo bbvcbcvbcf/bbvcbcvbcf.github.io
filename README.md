@@ -1,5 +1,6 @@
 # Araç Kazaları Keşifsel Veri Analizi
 
+Bu proje, Kaggle'dan alınan "Car Accidents in Brazil 2017-2023" veri setini kullanarak, Brezilya'da 2017-2023 yılları arasında meydana gelen trafik kazalarının detaylı analizini yapmak amacıyla hazırlanmıştır.
 
 <a href="https://ibb.co/3zd0wGC"><img src="https://i.ibb.co/QdQ6ZzK/Audi-RS6-that-crashed-in-the-Autobahn-in-2019-1.jpg" alt="Audi-RS6-that-crashed-in-the-Autobahn-in-2019-1" border="0"></a>
 
@@ -12,8 +13,6 @@ Kaggle : https://www.kaggle.com/code/emirhannozmen/aygaz-data-analysis-bootcamp
 
 #### Değişkenler
 
-
-Num: Her Pokémon için benzersiz kimlik numarası.
 
 * inverse_data: Kazanın gerçekleştiği tarih bilgisi.
 
