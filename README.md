@@ -1,14 +1,19 @@
 # Araç Kazaları Keşifsel Veri Analizi
 
+
 ![image](https://ibb.co/5691L1j)
 
-Car Accidents in Brazil Veri Seti : https://www.kaggle.com/datasets/mlippo/car-accidents-in-brazil-2017-2023
+
+Veri Seti : https://www.kaggle.com/datasets/mlippo/car-accidents-in-brazil-2017-2023
 
 Kaggle : https://www.kaggle.com/code/emirhannozmen/aygaz-data-analysis-bootcamp
 
 
 
 #### Değişkenler
+
+
+* Num: Her Pokémon için benzersiz kimlik numarası.
 
 *inverse_data: Kazanın gerçekleştiği tarih bilgisi.
 
