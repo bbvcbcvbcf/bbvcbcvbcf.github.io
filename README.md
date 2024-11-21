@@ -1,7 +1,7 @@
 # Araç Kazaları Keşifsel Veri Analizi
 
 
-![image](https://ibb.co/5691L1j)
+<a href="https://ibb.co/5691L1j"><img src="https://i.ibb.co/5691L1j/dataset-cover.png" alt="dataset-cover" border="0"></a>
 
 
 Veri Seti : https://www.kaggle.com/datasets/mlippo/car-accidents-in-brazil-2017-2023
@@ -13,38 +13,38 @@ Kaggle : https://www.kaggle.com/code/emirhannozmen/aygaz-data-analysis-bootcamp
 #### Değişkenler
 
 
-* Num: Her Pokémon için benzersiz kimlik numarası.
+Num: Her Pokémon için benzersiz kimlik numarası.
 
-*inverse_data: Kazanın gerçekleştiği tarih bilgisi.
+* inverse_data: Kazanın gerçekleştiği tarih bilgisi.
 
-*week_day: Kazanın meydana geldiği haftanın günü.
+* week_day: Kazanın meydana geldiği haftanın günü.
 
-*hour: Kazanın meydana geldiği saat bilgisi.
+* hour: Kazanın meydana geldiği saat bilgisi.
 
-*victims_condition: Kazanın ne tür bi kaza olduğunu veren bilgi.
+* victims_condition: Kazanın ne tür bi kaza olduğunu veren bilgi.
 
-*weather_timestamp: Kazanın gerçekleştiği zaman dilimi ve ışık koşulları.
+* weather_timestamp: Kazanın gerçekleştiği zaman dilimi ve ışık koşulları.
 
-*road_direction: Yolun yönü.
+* road_direction: Yolun yönü.
 
-*wheather_condition: Kazanın meydana geldiği sıradaki hava durumu.
+* wheather_condition: Kazanın meydana geldiği sıradaki hava durumu.
 
-*road_type: Şerit bilgisi.
+* road_type: Şerit bilgisi.
 
-*road_delineation: Kazanın meydana geldiği yolun türü.
+* road_delineation: Kazanın meydana geldiği yolun türü.
 
-*people: Kazaya karışan toplam insan sayısı.
+* people: Kazaya karışan toplam insan sayısı.
 
-*deaths: Kazada meydana gelen ölüm sayısı.
+* deaths: Kazada meydana gelen ölüm sayısı.
 
-*slightly_injured: Hafif yaralanan kişi sayısı.
+* slightly_injured: Hafif yaralanan kişi sayısı.
 
-*severely_injured: Ağır yaralanan kişi sayısı.
+* severely_injured: Ağır yaralanan kişi sayısı.
 
-*uninjured: Kazadan etkilenmeyen kişi sayısı.
+* uninjured: Kazadan etkilenmeyen kişi sayısı.
 
-*ignored: Görmezden gelinen durumlar veya yanlış raporlanmış veriler.
+* ignored: Görmezden gelinen durumlar veya yanlış raporlanmış veriler.
 
-*total_injured: Toplam yaralı sayısı.
+* total_injured: Toplam yaralı sayısı.
 
-*vehicles_involved: Kazaya karışan araç sayısı.
+* vehicles_involved: Kazaya karışan araç sayısı.
