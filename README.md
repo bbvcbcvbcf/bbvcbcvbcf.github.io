@@ -1,7 +1,7 @@
 # Araç Kazaları Keşifsel Veri Analizi
 
 
-<a href="https://static.wikia.nocookie.net/car-accident/images/2/28/Car_crash_1.png/revision/latest?cb=20230903062836"><img src="https://static.wikia.nocookie.net/car-accident/images/2/28/Car_crash_1.png/revision/latest?cb=20230903062836" alt="dataset-cover" border="0"></a>
+<a img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Audi_RS6_that_crashed_in_the_Autobahn_in_2019.jpg" alt="dataset-cover" border="0"></a>
 
 
 Veri Seti : https://www.kaggle.com/datasets/mlippo/car-accidents-in-brazil-2017-2023
