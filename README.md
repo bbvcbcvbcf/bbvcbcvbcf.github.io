@@ -1,7 +1,7 @@
 # Araç Kazaları Keşifsel Veri Analizi
 
 
-<a href="https://ibb.co/3zd0wGC"><img src="https://i.ibb.co/3zd0wGC/Audi-RS6-that-crashed-in-the-Autobahn-in-2019-1.jpg" alt="Audi-RS6-that-crashed-in-the-Autobahn-in-2019-1" border="0"></a>
+<a href="https://ibb.co/3zd0wGC"><img src="https://i.ibb.co/QdQ6ZzK/Audi-RS6-that-crashed-in-the-Autobahn-in-2019-1.jpg" alt="Audi-RS6-that-crashed-in-the-Autobahn-in-2019-1" border="0"></a>
 
 
 Veri Seti : https://www.kaggle.com/datasets/mlippo/car-accidents-in-brazil-2017-2023
