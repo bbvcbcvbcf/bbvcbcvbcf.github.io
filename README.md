@@ -1,6 +1,6 @@
 # C# Proje Kampı 301 🚀
 
-C# Eğitim Kampı kapsamında, Entity Framework ve LINQ sorgularını kullanarak dinamik bir Windows Form projesi geliştirdik. Projede CRUD işlemleri ve karmaşık sorgulama ihtiyaçları için LINQ ifadeleri gerçekleştirdik. Ayrıca, veritabanından elde edilen istatistiksel verileri basit ve kullanıcı dostu bir arayüzde görselleştirdik.
+C# Eğitim Kampı kapsamında, Entity Framework ve LINQ sorgularını kullanarak dinamik bir Windows Form projesi geliştirdik. Projede CRUD işlemlerini gerçekleştirdik ve karmaşık sorgulama ihtiyaçları için LINQ ifadeleri kullandık. Ayrıca, veritabanından elde edilen istatistiksel verileri basit ve kullanıcı dostu bir arayüzde görselleştirdik.
 
 <img src="https://github.com/emirhannozmen/CSharpEgitimKampi301/blob/master/FrmStatistics.png" width="auto">
 
